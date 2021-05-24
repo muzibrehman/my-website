@@ -2,7 +2,12 @@
 
 This is a really awesome website
 
+<<<<<<< HEAD
+Edit on example branch
+
+=======
 Now editing on update-readme branch
 
 Updated locally
+>>>>>>> update-readme
 
