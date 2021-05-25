@@ -7,3 +7,7 @@ Updates made on master on GitHub before rebase
 ## Repository purpose 
 
 this file is just a readme file.
+
+## Purpose
+
+the purpose of this file is to provide examples
